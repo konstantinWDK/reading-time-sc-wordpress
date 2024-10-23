@@ -4,7 +4,7 @@ Plugin Name: Tiempo de Lectura Plugin
 Description: Este plugin calcula el tiempo de lectura aproximado de un post y permite configurar la velocidad de lectura desde el backoffice. Para configurar ir a -> Ajustes / Tiempo de Lectura
 Version: 1.0
 Author: Konstantin K.
-Author URI: https://webdesignerk.com/wordpress/plugins/como-mostrar-tiempo-de-lectura-aproximado-en-wordpress/
+Author URI: https://webdesignerk.com/
 */
 
 // Función para calcular el tiempo de lectura aproximado
